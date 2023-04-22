@@ -43,7 +43,6 @@ code {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('src/assets/background/parallax-bg.gif');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
